@@ -2,8 +2,8 @@
 - Communicating with external service API openweathermap.org
 
 ### To run API server local: 
-- export API_KEY='your_api_key' (https://openweathermap.org/)
-- docker-compose up --build
+    * export API_KEY='your_api_key' (https://openweathermap.org/)
+    * docker-compose up --build
 
 #### Python version: 3.9
 
